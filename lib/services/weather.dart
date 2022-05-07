@@ -1,6 +1,7 @@
 import 'package:clima/services/location.dart';
 import 'package:clima/services/networking.dart';
 
+// TODO: Refactor and hide the key.
 const apiKey = 'f0ae9c07c113779004de221af41320bc';
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
 
